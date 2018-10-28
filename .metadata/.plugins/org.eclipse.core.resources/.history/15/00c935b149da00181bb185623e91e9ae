@@ -94,4 +94,6 @@ public class Commander {
 		return "Commander [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", birthday=" + birthday
 				+ ", homeState=" + homeState + ", military=" + military + "]";
 	}
+	
+	
 }
